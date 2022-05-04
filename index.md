@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to this test page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Timez gotta minutez
